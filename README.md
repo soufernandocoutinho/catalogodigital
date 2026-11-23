@@ -1,10 +1,10 @@
 # Digisat Conecta — Página de vendas
 
-A página apresenta a **Digisat Conecta**, uma solução de e-commerce da qual sou **representante de vendas autorizado**. Meu trabalho consiste em comercializar, orientar e acompanhar os clientes em todas as etapas, desde a implantação até o suporte contínuo.
+A página apresenta a **Digisat Conecta**, uma plataforma de e-commerce voltada à criação de lojas virtuais e à integração com o sistema de gestão comercial **Digisat G6 Administrador Comercial**.
 
-Este projeto é uma página comercial voltada à apresentação dos planos de loja virtual. O desenvolvimento da solução Digisat Conecta e do **Digisat G6 Administrador Comercial** não foi realizado por mim. Como representante autorizado da Digisat, ofereço consultoria comercial, implantação, configuração inicial e suporte aos clientes.
+Este projeto é uma página comercial destinada à apresentação dos planos e recursos disponíveis. Sou representante autorizado da Digisat e atuo na orientação comercial, implantação, configuração inicial e suporte aos clientes, acompanhando todas as etapas da contratação e utilização da solução.
 
-Os clientes podem escolher uma solução de loja virtual independente ou uma opção integrada ao Digisat G6 Administrador Comercial, conectando a operação física e digital em um único fluxo de gestão.
+A Digisat Conecta pode ser contratada como loja virtual independente ou integrada ao Digisat G6 Administrador Comercial. Nesse modelo, a operação física e digital pode ser conectada para sincronizar estoque, produtos e pedidos, centralizar a gestão comercial e emitir notas fiscais.
 
 ## Sobre o sistema
 
